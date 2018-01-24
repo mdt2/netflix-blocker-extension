@@ -1,0 +1,25 @@
+#appMountPoint {
+	display:none;
+}
+
+#shame-message {
+	width:100vw;
+	height:100vh;
+	padding:100px;
+	overflow:hidden;
+	background-color:black;
+}
+
+button {
+	background-color:red;
+	padding:8px 10px;
+	border:none;
+	outline:gray;
+}
+
+#continue {
+	color:gray !important;
+	font-size:12px;
+	margin-top:16px;
+	cursor:pointer;
+}
